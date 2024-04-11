@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","BusinessPartner0101/PartnerUIFranzineu/test/integration/FirstJourney","BusinessPartner0101/PartnerUIFranzineu/test/integration/pages/Partner1List","BusinessPartner0101/PartnerUIFranzineu/test/integration/pages/Partner1ObjectPage"],function(e,r,n,t){"use strict";var e=new e({launchUrl:sap.ui.require.toUrl("BusinessPartner0101/PartnerUIFranzineu")+"/index.html"});e.run({pages:{onThePartner1List:n,onThePartner1ObjectPage:t}},r.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

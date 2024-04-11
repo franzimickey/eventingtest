@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://y9dnspb8ld6qzd6y.launchpad.cfapps.eu10.hana.ondemand.com/lcapBusinessPartner_0101.BusinessPartner_0101Launchpad-1.0.0",
+  "DeployedUTCTime": "2024-03-28T16:35:39.179Z",
+  "ApplicationLogURL": "https://logs.cf.eu10-004.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:BusinessPartner_0101-srv)))))"
+}
